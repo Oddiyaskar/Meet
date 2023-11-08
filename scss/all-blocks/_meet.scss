@@ -1,0 +1,52 @@
+.meet {
+    background-color: #004047;
+}
+
+.heading {
+    padding-top: 140px;
+    font-family: "Livvic";
+    font-weight: 700;
+    width: 920px;
+    text-align: center;
+    margin-left: 120px;
+}
+
+.info {
+    display: flex;
+    margin-top: 64px;
+}
+
+.item {
+    background-color: #012F34;
+    width: 350px;
+    height: 253px;
+    text-align: center;
+    margin-bottom: 76px;
+}
+
+.img {
+    padding-top: 35px;
+}
+
+.title {
+    font-family: "Livvic";
+    font-weight: 700px;
+    padding-top: 13px;
+}
+
+.text {
+    font-family: "Livvic";
+    font-weight: 500px;
+    font-style: italic;
+    width: 270px;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.icon {
+    transform: translateY(-5px);
+}
+
+.icons {
+    transform: translateY(83px);
+}
